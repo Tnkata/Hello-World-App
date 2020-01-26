@@ -1,4 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
+## Hello IOS Application
 
 ### App Description
 `TODO://` This an app I made for my Code Path course Application
